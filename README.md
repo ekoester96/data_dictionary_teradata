@@ -24,7 +24,7 @@ Create a data dictionary by having an AI process the first 5 rows of each column
 
 # ollama commands
 
-## Loads the model into memory
+## Downloads model and runs model in memory 
 
     ollama run gemma3:4b
 
