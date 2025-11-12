@@ -24,6 +24,10 @@ Create a data dictionary by having an AI process the first 5 rows of each column
 
 # ollama commands
 
+## Creates server to access local model on port 11434
+
+    ollama serve
+
 ## Downloads model and runs model in memory 
 
     ollama run gemma3:4b
@@ -32,9 +36,7 @@ Create a data dictionary by having an AI process the first 5 rows of each column
 
     ollama stop gemma3:4b
 
-## Creates server to access local model on port 11434
 
-    ollama serve
 
     
 
