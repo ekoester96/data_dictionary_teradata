@@ -30,7 +30,7 @@ Create a data dictionary by having an AI process the first 5 rows of each column
 
     curl -fsSL https://ollama.com/download/ollama-linux-amd64-rocm.tgz | sudo tar zx -C /usr
 
-## Bash prompt
+## Bash command
 
     ollama run gemma3:4b
 
