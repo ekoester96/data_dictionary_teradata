@@ -6,7 +6,7 @@ Create a data dictionary by having an AI process the first 5 rows of each column
     pip install teradatasql pandas requests
 
 
-# macOS Install Ollama
+# macOS
 
     brew install ollama
 
@@ -14,7 +14,7 @@ Create a data dictionary by having an AI process the first 5 rows of each column
 
     ollama run gemma3:4b
 
-# For Windows download Ollama and use the non Apple version of the script
+# Windows
 
     https://ollama.com/download
 
